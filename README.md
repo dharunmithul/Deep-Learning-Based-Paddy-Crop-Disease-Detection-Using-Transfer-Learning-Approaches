@@ -1,6 +1,17 @@
 # Rice Disease Detection Project
 
-Model files are large, so they are stored in Google Drive.
+Some files are large, so they are stored in Google Drive.
 
-Download models here:
-https://drive.google.com/file/d/1zNGSbHhGbxoN7w8gO6yzK8y6GSQlbe8D/view?usp=sharing
+## Project Files
+- dataset.png
+- deeplearning.html
+- instance.db
+- models
+- uploads
+
+## Download Project Resources
+
+Google Drive Folder:
+https://drive.google.com/drive/folders/1aAzk9adQbL7s5-M0R_m7nAdp4nxMugEx?usp=sharing
+
+
